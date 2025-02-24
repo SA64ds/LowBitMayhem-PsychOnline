@@ -1,16 +1,17 @@
 Low-Bit Mayhem
 SA64::sa64::I directed the mod and did pretty much everything that isn't listed below::https://bsky.app/profile/sa64ds.github.io::#2857c6
-ShultzNG::shultz::He did the original animations for SA64, half of which became alts. He also did some stickers used in the sticker pack.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
+ShultzNG::shultz::He did the original animations for SA64, half of which became alts.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
 Stawii::staw::He composed the original version of Bit-Beat and let me use it here.::https://bsky.app/profile/staw.bsky.social::#3c3934
-FrenchOtter::frenchie::He made SA64's non-pixel sprites and icon, as well as some stickers for the sticker pack.::https://www.youtube.com/@frenchotter::#8f8dff
+FrenchOtter::frenchie::He made SA64's non-pixel sprites and icon.::https://www.youtube.com/@frenchotter::#8f8dff
 RykerTheStriker::ryker::He made the SA64 chromatic that is used throughout the mod.::https://bsky.app/profile/rykerthestriker.bsky.social::#00ff00
-
-Scripts Used
-Alicedotlua::guy::In-Song Credits::https://twitter.com/alicedotlua::#FFFFFF
-AzurePulse::guy::4:3 Aspect Ratio::https://twitter.com/FrideyNehgGuy::#FFFFFF
 
 Special Thanks
 Plush::plush::She assisted me a lot with getting the custom events I needed::https://bsky.app/profile/plushh.bsky.social::0xFFA500
 Super Funkin' Galaxy::mario::I stole a few scripts (with some fixes to work with Psych 1.0), the non-pixel BF alts, and icons from them.::https://gamebanana.com/mods/444759::#f01419
+Hit Single::guy::Where everything from SORETRO (SA64 Cover) comes from::https://gamebanana.com/mods/395039::#FFFFFF
 OwenTheMC::owen::Being a cool guy and letting me meet the people I know today::https://bsky.app/profile/owenthemc.bsky.social::0xFF84C6F5
-and YOU!::guy::...for checking out this one-shot! I hope you enjoy playing it!::https://www.youtube.com/watch?v=jXPF0Bm4u9w::#FFFFFF
+and YOU!::guy::...for checking out this version of Low-Bit Mayhem! I hope you enjoy playing it!::https://static.wikia.nocookie.net/fridaynightfunking/images/9/9b/BadMarioJig.gif/revision/latest?cb=20240117153859::#FFFFFF
+
+LBM Psych Online Port
+SA64::sa64::Ported pretty much everything to Psych Online::https://bsky.app/profile/sa64ds.github.io::#2857c6
+Cloak2300::guy::Retro Mario Icon::https://fridaynightfunking.fandom.com/wiki/User:Cloak2300::#FFFFFF

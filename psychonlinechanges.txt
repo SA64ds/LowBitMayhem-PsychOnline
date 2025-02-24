@@ -3,18 +3,19 @@ Note: Most of these are just things removed
 - Bit-Beat -
 * All the SMB1 stuff was removed to work better with skins
 * Every script relevant to the style change was removed
-(The fonts are still there, just because)
+(The fonts are still there when playing in Freeplay, just because)
 * The code to take you to SORETRO (SA64 Cover) was removed
 
 - SORETRO (SA64 Cover) -
 * SORETRO (SA64 Cover) is now accessible in Freeplay
 * Icon for SORETRO Mario was added, for the reason above (and since you can't hide the health bar in Psych Online)
-(Icon by Cloak2300, with some edits by me)
+* SMB1 SA64 now uses a .xml instead of a .json exported from Aseprite (since Psych Online doesn't support Aseprite jsons)
 
 - Misc. -
+* SA64 is usable as a skin online (using some of the alts to make up for a lack of poses)
+* Credits were updated to account for things added or removed in this version
 * Settings were removed (since Psych Online doesn't support them)
 * Every script related to the settings, including for stickers, was removed
 * Now-unused assets were removed to save on file space
 * Lore folder was removed for the same reason as above
 * The inverted color health and time bars were removed
-* SA64 is usable as a skin online (using some of the alts to make up for a lack of poses)
