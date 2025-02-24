@@ -1,0 +1,20 @@
+[
+	{
+		"save": "bitbeat_nomiss",
+		"name": "Bit Master",
+		"description": "Beat Bit-Beat on Hard with no Misses."
+	},
+	{
+		"save": "so_retroacheivements",
+		"name": "So Retro!",
+		"description": "Find the secret song."
+	},
+    {
+		"save": "commitedtothebit",
+		"name": "Commited to the Bit",
+		"description": "Play Bit-Beat 64 times.",
+		"maxScore": 64,
+		"maxDecimals": 0,
+		"hidden": false
+	}
+]

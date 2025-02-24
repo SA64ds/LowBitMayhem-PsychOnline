@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-4,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				16,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				13,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				-4,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "missRIGHT",
+			"indices": [],
+			"name": "note left miss"
+		},
+		{
+			"offsets": [
+				16,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "missDOWN",
+			"indices": [],
+			"name": "note down miss"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "missUP",
+			"indices": [],
+			"name": "note up miss"
+		},
+		{
+			"offsets": [
+				13,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "missLEFT",
+			"indices": [],
+			"name": "note right miss"
+		},
+		{
+			"offsets": [
+				-4,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "leftALT"
+		},
+		{
+			"offsets": [
+				54,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "downALT"
+		},
+		{
+			"offsets": [
+				-18,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "upALT"
+		},
+		{
+			"offsets": [
+				30,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "rightALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				46
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "upALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "note down miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sa64",
+	"position": [
+		50,
+		230
+	],
+	"healthicon": "sa64",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		115,
+		236
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-93,
+				-31
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				299
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				299
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "altleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				298
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				304
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-93,
+				-14
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "stare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fuckingretromario",
+	"position": [
+		40,
+		490
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		69,
+		87
+	],
+	"camera_position": [
+		-50,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
