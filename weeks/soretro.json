@@ -1,0 +1,27 @@
+{
+	"storyName": "SORETRO (SA64 Cover)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "bitbeat",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"SORETRO (SA64 Cover)",
+			"retro",
+			[
+				242,
+				69,
+				87
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "SORETRO (SA64 Cover)",
+	"hiddenUntilUnlocked": false
+}

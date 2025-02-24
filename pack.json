@@ -1,0 +1,9 @@
+{
+	"name": "Low-Bit Mayhem (Psych Online Version)",
+	"description": "Originally a scrapped song from a different mod, Low-Bit Mayhem is an FNF one-shot starring SA64 featuring an art-style based on SMB1. This version was made to work better with Psych Online. Read psychonlinechanges.txt for more information.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [50, 50, 255],
+	"discordRPC": "1326053135315369994",
+	"iconFramerate": 10
+}
